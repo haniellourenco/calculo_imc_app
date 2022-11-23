@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956836760313",
+    "project_id": "calc-imc-app",
+    "storage_bucket": "calc-imc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956836760313:android:c8ac4fd1bdf460f33db028",
+        "android_client_info": {
+          "package_name": "app.calc_imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956836760313-r37kodqt3gh0rl4k804m8rcg66v5mrbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfl1uor3fVjD2wErZNHD0o-kbgAyQ83E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956836760313-r37kodqt3gh0rl4k804m8rcg66v5mrbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
